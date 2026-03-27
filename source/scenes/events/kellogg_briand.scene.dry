@@ -35,5 +35,6 @@ Despite our misgivings about the treaty, it still represents a step forward for 
 @not_enough
 view-if: kellogg_briand_signed
 title: The treaty is not enough.
+on_arrival: kpd_relation += 25
 
-Despite the idealism behind the treaty, it is inadequate for its goal of preventing wars. There must be some enforcement mechanism, perhaps automatic trade sanctions, or an intervention force controlled by the League of Nations. As it stands, the League of Nations and this treaty is toothless.
+Despite the idealism behind the treaty, it is inadequate for its goal of preventing wars. There must be some enforcement mechanism, perhaps automatic trade sanctions, or an intervention force controlled by the League of Nations. As it stands, the League of Nations and this treaty is toothless. Taking this stance improves our relations with the internationalist KPD.
